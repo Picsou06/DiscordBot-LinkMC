@@ -1,0 +1,12 @@
+{
+  "template": "javascript",
+  "version": 4,
+  "handlers": {
+    "commands": "src/commands",
+    "events": "src/events",
+    "inhibitors": null,
+    "buttons": "src/interactions/buttons",
+    "modals": null,
+    "selectMenus": "src/interactions/selectmenus"
+  }
+}

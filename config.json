@@ -1,0 +1,10 @@
+{
+  "DISCORD_TOKEN": "Token-To-Set",
+  "SERVER_ID": "Your-Server-Id",
+  "CHANNEL_ID": "Your-Channel-ID"
+  "HOST": "Your-BDD-Host"
+  "USER": "Your-BDD-User"
+  "PORT": "Your-BDD-Port"
+  "PASSWORD": "Your-BDD-Password"
+  "NAME": "Your-BDD-Name"
+}
